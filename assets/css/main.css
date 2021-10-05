@@ -1987,6 +1987,7 @@ input, select, textarea {
 
 	.fa {
 		color: #186cb8;
+		text-decoration: none;
 	}
 		
 /* Wrappers */
